@@ -2,5 +2,5 @@ Kalkulator masy Bmi
 
 
 Uruchamiamy program w powershell poleceniem
-gcc -Wall bmi.c -o bmi.exe
+gcc -Wall src.c -o bmi.exe
 ./bmi.exe
